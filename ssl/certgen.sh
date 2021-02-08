@@ -2,6 +2,7 @@
 
 # Script to generate a CSR
 # Also generatea a local certificate (no CA) for testing purposes
+# See sample config file server.cfg for inputs
 # rehanj@etherzine.com
 
 [ -z $1 ] && echo "\nusage: `basename $0` <config_file>\n" && exit 1
