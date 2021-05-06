@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get a selection of hardware system information
-# rehanj@etherzine.com
+# rehan.janjua@cuedos.io
 
 echo "CPU Speeds"
 for src in arm core h264 isp v3d uart pwm emmc pixel vec hdmi dpi; do
