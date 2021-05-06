@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script to monitor CPU usage at a configurable interval
-# rehanj@etherzine.com
+# rehan.janjua@cuedos.io
 
 SN=$(basename $0)
 DEFAULT_INTERVAL=60
