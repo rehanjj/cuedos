@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get CPU clock speed
-# rehanj@etherzine.com
+# rehan.janjua@cuedos.io
 
 for src in arm core h264 isp v3d uart pwm emmc pixel vec hdmi dpi; do
 
