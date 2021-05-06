@@ -3,7 +3,7 @@
 REM Script to generate a CSR
 REM Also generatea a local certificate (no CA) for testing purposes
 REM See sample config file server.cfg for inputs
-REM rehanj@etherzine.com
+REM rehan.janjua@cuedos.io
 
 if "%~1"=="" (
 	echo.
