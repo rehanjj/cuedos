@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Script to generate a CSR
-# Also generatea a local certificate (no CA) for testing purposes
+# Also generates a local certificate (no CA) for testing purposes
 # See sample config file server.cfg for inputs
 # rehan.janjua@cuedos.io
 
